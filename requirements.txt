@@ -1,9 +1,8 @@
-cv2
+opencv-python
 mediapipe
 streamlit
 numpy
 streamlit-webrtc
 aiortc
 av
-gc
-webrtc_streamer
+
