@@ -5,3 +5,4 @@ numpy
 streamlit-webrtc
 aiortc
 av
+Cb2
