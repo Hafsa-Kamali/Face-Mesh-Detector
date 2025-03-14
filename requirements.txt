@@ -5,3 +5,5 @@ numpy
 streamlit-webrtc
 aiortc
 av
+gc
+webrtc_streamer
